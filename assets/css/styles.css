@@ -286,6 +286,7 @@ button {
 .service__heading,
 .service__desc {
   text-align: center;
+  margin: 0 auto;
 }
 
 .service__row {
